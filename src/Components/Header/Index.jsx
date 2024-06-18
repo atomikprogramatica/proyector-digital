@@ -33,7 +33,7 @@ const Header = () => {
   return (
     <div>
         <nav className='header-box'>
-              <NavLink to='./' className='navLinkHeader'>          
+              <NavLink to="/proyector-digital" className='navLinkHeader'>          
                 <img src={logotipo} alt="Logotipo Header"/>
               </NavLink>
             <div>
